@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://i.pinimg.com/originals/f6/4c/74/f64c74e506cda90623a5b9e4dae3b683.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.studio {
+  width: 500px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+#coletanea {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.coletanea_anime { margin: 40px }
+
+.coletanea_anime:hover {
+  filter: brightness(60%);
+  transition: .2s;
+  cursor: pointer;
+}
+
+.coletanea_anime_text {
+  margin: 0 0 5px;
+  background-color: #5effdc;
+  color: #35423f;
+  font-size: 20px;
+}
