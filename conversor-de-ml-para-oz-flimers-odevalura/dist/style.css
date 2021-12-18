@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://blog.costaatacado.com.br/wp-content/uploads/2018/10/X-tipos-de-tintas-para-artesanato.png');
+  background-color: #000000;
+  background-size: 130vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 85vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 300px;
+}
+
+.page-logo-imersao {
+  width: 300px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.alura-logo {
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
