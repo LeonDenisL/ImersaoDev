@@ -1,0 +1,96 @@
+body {
+  background-image: url('https://cutewallpaper.org/21/matrix-gif-wallpaper/Matrix-Wallpaper-Gif.gif');
+  font-family: 'Open Sans';
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: #eff4ff;
+  padding:15px;
+  max-width: 500px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif');
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+div {
+  border: 1px solid black;
+  padding:15px;
+  background-color: #bac3d6;
+  border-radius: 5px;
+
+}
+
+img {
+  border-radius:100%;
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
+
+section#sociais {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  background-color: #eff4ff;
+  padding:15px;
+  max-width: 500px;
+  border: 1px solid black;
+  border-radius: 5px;
+  
+}
+
+div#sociais {
+  border: 1px solid black;
+  padding:15px;
+  background-color: #bac3d6;
+  border-radius: 5px;
+
+}
+
+ section#sociais a{
+	text-decoration: none;
+	color: black;
+	transition: 0.2s ease;
+}
+
+ol li a{
+	text-decoration: none;
+	color: black;
+	transition: 0.2s ease;
+}
+
+a:hover{
+	font-size: 22px;
+	color: blue;
+}
+
+section#sociais a:hover{
+	font-size: 22px;
+	color: darkblue;
+}
+/* Leon Denis Silvestre de Lucena */
+/* MDN pesquisar oq quero */
